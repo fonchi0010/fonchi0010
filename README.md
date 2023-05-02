@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-
-
 - 🔭 I’m currently seraching work in frontend or backend.
 - 🌱 I’m currently learning redux and typescript.
 - 📫 My gmail is: alfonso.10.manterola@gmail.com
+
+### My Commits ✔️
+
+![Fonchi0010's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonchi0010&show_icons=true&theme=vue)
 
 
 ### Language Tools🖥️
@@ -26,3 +28,7 @@
   <img align="center" alt="fonchi0010" height="30" width="60" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="fonchi0010" height="30" width="60" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonchi0010&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
